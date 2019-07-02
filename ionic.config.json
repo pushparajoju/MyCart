@@ -1,5 +1,7 @@
 {
   "name": "cartApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
